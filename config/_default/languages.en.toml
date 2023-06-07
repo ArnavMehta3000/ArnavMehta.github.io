@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Home"
+copyright = ""
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Arnav Datt Mehta Portfolio"
+
+[author]
+  name = "Arnav Mehta"
+  image = "img/pfp.jpg"
+  headline = "Gameplay, Tools and Engines Programmer"
+  bio = "Looking for my coffee"
+  links = [
+    { github = "https://github.com/arnavmehta3000" },
+    { linkedin = "https://linkedin.com/in/arnavmehta3000" },
+  # { youtube = "https://youtube.com/username" },
+    { twitter = "https://twitter.com/its_me_arnav"},
+    { email = "mailto:arnavdatt@protonmail.com" },
+ ]
