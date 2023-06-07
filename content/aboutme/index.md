@@ -8,6 +8,12 @@ description: "Learn more about me"
 
 **Hey there! I am Arnav**, and you are currently having a one-sided-textual-probably-monotonous-talk with me through this page :)
 
+{{< figure
+    src="pfp.png"
+    alt="A picture of me touching grass XD"
+    caption="A picture of me touching grass XD"
+    >}}
+
 ## Game Development and Backend Focus
 
 I recently completed my **BSc (Hons) Computer Games Design and Programming** degree from **[Staffordshire University](https://www.staffs.ac.uk/)** (2020-2023). Game development has always been my jam, and I've had a blast working with Unity and Unreal game engines.
@@ -17,6 +23,12 @@ While game development is my passion, I've discovered a special love for backend
 I'm well-versed in the art of coding and consider C++ and C# to be my trusty sidekicks. Additionally, I've dabbled in DirectX 11 and HLSL, which have allowed me to create some complex projects over the years. Along with being well versed in version control tools like **Git/Github** and project management tools like **Jira**.
 
 I thrive on *analytical and logical thinking*, transforming problem-solving into an exhilarating adventure. With a solid foundation in mathematics, including *vector math* and the mathematical principles behind *graphics programming*, I bring a unique perspective to crafting immersive and engaging games that prioritize functionality over aesthetics.
+
+{{< figure
+    src="poster.jpg"
+    alt=""
+    caption=""
+    >}}
 
 ## Passion for Game Jams
 
@@ -33,6 +45,7 @@ These intense and creative events allow me to challenge myself and explore new i
 🎮 GMTK Game Jam 2021</br>
 🎮 Global Game Jam 2021</br>
 🎮 Ukie Game Jam 2021</br>
+🎮 Global Game Jam 2022</br>
 
 >- 101 Hours Jam was my first ever game jam. This is also the game jam where I opened Unity for the first time. I ended up learning Unity and making a game in it within the 101 hours
 >- Ai and Games Jam was the first game jam where I learn to work with and design complex Ai behaviours (in Unity) using a custom Finite State Machine framework

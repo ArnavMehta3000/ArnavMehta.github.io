@@ -10,8 +10,6 @@ The theme of this game jam was **Breaking The Rules**. So in this game the robot
 
 In this game you play as a robot, where you break Asimov's 3 rules/laws of robotics by fighting against intelligent AI.
 
-The Ai will randomly patrol, and if caught will shoot on sight. But also go and take cover and call for backup (creates copy of itself) when its own health is low
-
 ## How the AI Works
 
 This was the first time I made my own Finite State Machine (FSM) framework in Unity.
