@@ -1,7 +1,7 @@
 ---
 title: "Unity Top Down Shooter"
 date: 2022-03-27T20:56:47+01:00
-description: "Top down shooter game made in Unity"
+summary: "Top down shooter game made in Unity"
 ---
 
 A short top down shooter game made in the **Unity Game Engine**.

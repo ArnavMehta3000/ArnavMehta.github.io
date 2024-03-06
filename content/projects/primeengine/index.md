@@ -1,7 +1,7 @@
 ---
 title: "Prime Engine"
 date: 2022-09-03T21:20:15+01:00
-description: "Prime Engine"
+summary: "Prototype game engine made as practice"
 ---
 
 A bare bones attempt at a 2D/3D game engine. Used this project to prepare for making Proximity 2D in an attempt to find my ideal engine architecture. Written in C++ using the DirectX 11. Inspired from the Hazel Game Engine from The Cherno.

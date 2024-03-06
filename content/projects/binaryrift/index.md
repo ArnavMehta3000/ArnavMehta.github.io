@@ -1,7 +1,7 @@
 ---
 title: "Binary Rift [United Game Jam 2020]"
 date: 2020-06-28T00:34:04+01:00
-description: "Submission for the United Game Jam 2020"
+summary: "Submission for the United Game Jam 2020"
 ---
 
 This game was made the for the United Game Jam 2020, who's theme was **Two**. This was my second ever game made in Unity.

@@ -1,7 +1,7 @@
 ---
 title: "Dimension Drift [GMTK Game Jam 2021]"
 date: 2021-06-11T19:00:00+00:00
-description: "Project page for Dimension Drift"
+summary: "Puzzle game made for GMTK Game Jam 2021"
 ---
 
 Dimension Drift is a short puzzle game made for the [GMTK Game Jam 2021](https://itch.io/jam/gmtk-2021) in *48 hours*.

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Graphics"
 date: 2022-12-16T20:42:50+01:00
-description: "Project demonstrating advanced graphics techniques in DirectX 11"
+summary: "Project demonstrating advanced graphics techniques in DirectX 11"
 ---
 
 This project demonstrates my skills in advanced rendering techniques. Written using C++ and DirectX 11 using a custom framework.

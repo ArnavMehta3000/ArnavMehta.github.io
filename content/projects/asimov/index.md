@@ -1,7 +1,7 @@
 ---
 title: "Against Asimov [Ai and Games Jam 2021]"
 date: 2021-06-05T23:26:37+01:00
-description: "Submission for AI and Games Jam 2021"
+summary: "Submission for AI and Games Jam 2021"
 ---
 
 This game was made for the Ai and Games Jame 2021. The main goal of the project was to improve my AI development and design skills.

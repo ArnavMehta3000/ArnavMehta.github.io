@@ -1,7 +1,7 @@
 ---
 title: "Maze Meltdown [Global Game Jam 2021]"
 date: 2021-02-02T21:02:45+01:00
-description: "Horror game made for Global Game Jam 2021"
+summary: "Horror game made for Global Game Jam 2021"
 ---
 
 Maze Meltdown is a horror game I made when I took part (solo) in the Global Game Jam held in my university.

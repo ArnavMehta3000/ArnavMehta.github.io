@@ -1,7 +1,7 @@
 ---
 title: "Turbulent Time [GMTK Game Jam 2020]"
 date: 2020-07-12T00:25:55+01:00
-description: "Submission for GMTK Game Jam 2020"
+summary: "Submission for GMTK Game Jam 2020"
 ---
 
 This game was made for the GMTK Game Jam 2020, where the theme was **Out of Control**. This was my first ever 3D game made in Unity.

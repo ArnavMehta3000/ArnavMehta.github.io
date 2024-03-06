@@ -1,7 +1,7 @@
 ---
 title: "Mutant Mashup [Discord Jam #5]"
 date: 2021-01-04T23:45:46+01:00
-description: "Submission for Discord Jam #5"
+summary: "Submission for Discord Jam #5"
 ---
 
 This game was made for the Discord Jam #5. The theme for this game jam was **Mutation**.
