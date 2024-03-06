@@ -1,7 +1,7 @@
 ---
 title: "Proximity Game Engine"
 date: 2023-06-04T15:20:05+01:00
-description: "Project page for my Proximity 2D Game Engine"
+summary: "2D C++ and DirectX 11 game engine I made for my final year project"
 ---
 
 For my final year project for my university I made a simple 2D game engine. For this project I research what goes into making a game engine and try to implement my learnings. Written in C++ 20, DirectX 11 and HLSL and based on and **ECS** and **event-driven architecture**. The editor is also written in C++ using [ImGui](https://github.com/ocornut/imgui). It also supports entity scripting using **Lua**.

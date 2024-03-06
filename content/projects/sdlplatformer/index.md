@@ -1,7 +1,7 @@
 ---
 title: "SDL 2 Mario Remake"
 date: 2022-02-27T21:11:20+01:00
-description: "Mario remake using SDL"
+summary: "Mario remake using SDL"
 ---
 
 This was my first project where I made a game without using an engine in C++ using [SDL2](https://www.libsdl.org/)

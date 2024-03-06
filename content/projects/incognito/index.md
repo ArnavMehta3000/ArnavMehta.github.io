@@ -1,7 +1,7 @@
 ---
 title: "Incognito"
 date: 2023-02-04T19:25:39+01:00
-description: "Project page for Incognito Game"
+summary: "Procedural rogue-lite game made in UE5"
 ---
 
 Incognito is a rogue-lite procedural stealth game made in **Unreal Engine 5** using **C++** and **Blueprints**. The player playes through a series of *rooms* (level). After finishing a level, they are brought back to the *hub* where they can choose weapon and stealth upgrades for their next run. Due to procedural level generation, each level/run is different.

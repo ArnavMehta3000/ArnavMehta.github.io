@@ -1,7 +1,7 @@
 ---
 title: "DX11 Rendering Framework"
 date: 2022-03-26T21:32:22+01:00
-description: "Simple rendering engine (C++ and DX11)"
+summary: "Simple rendering engine (C++ and DX11)"
 ---
 
 Made for my second university year, this project was my first introduction to the DirectX 11 API, making it my first ever rendering engine.

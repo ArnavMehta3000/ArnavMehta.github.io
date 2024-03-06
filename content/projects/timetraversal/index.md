@@ -1,7 +1,7 @@
 ---
 title: "Time Traversal [Brackeys Game Jam 2020.2]"
 date: 2020-09-14T00:12:40+01:00
-description: "Submission for Brackeys Game Jam 2020.2"
+summary: "Submission for Brackeys Game Jam 2020.2"
 ---
 
 A short puzzle platformer made for the Brackeys Game Jam 2020.2

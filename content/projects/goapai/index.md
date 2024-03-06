@@ -1,7 +1,7 @@
 ---
 title: "Goal Oriented Action Planning in Unity"
 date: 2023-05-07T21:40:05+01:00
-description: "GOAP in Unity"
+summary: "GOAP in Unity"
 ---
 
 I have always wanted to try making a complex Ai system before (better than a FSM). And in that list, there were two main ones. GOAP and Neural Networks, specifically NEAT and Genetic Algorithms. Although my original plan for this module was to make a platformer (similar) to Super Mario Bros. and train a NEAT algorithm on it. Due to the scope and time constraints, I decide to drop that idea and move on to make GOAP in a survival game.
