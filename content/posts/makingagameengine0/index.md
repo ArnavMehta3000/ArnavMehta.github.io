@@ -28,7 +28,7 @@ Hopefully, the future articles are helpful and enjoyable to read. Keeping in min
 
 I hope you'll stick around for the development of this new project 😄.
 
-Catch ya araound!,
+Catch ya around!,
 Arnav.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
