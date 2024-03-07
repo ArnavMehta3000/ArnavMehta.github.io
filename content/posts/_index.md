@@ -7,5 +7,3 @@ description: "My blog posts"
 {{< lead >}}
 Procrastinating my next project with many unfinished ones in front of me!
 {{< /lead >}}
-
-## COMING SOON!
