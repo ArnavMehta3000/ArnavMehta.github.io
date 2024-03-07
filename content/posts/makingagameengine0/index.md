@@ -30,3 +30,8 @@ I hope you'll stick around for the development of this new project 😄.
 
 Catch ya araound!,
 Arnav.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  {{< badge >}}Programming{{< /badge >}}
+  {{< badge >}}Game Engine{{< /badge >}}
+</div>
