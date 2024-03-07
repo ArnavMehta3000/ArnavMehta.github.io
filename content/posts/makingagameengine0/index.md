@@ -28,8 +28,7 @@ Hopefully, the future articles are helpful and enjoyable to read. Keeping in min
 
 I hope you'll stick around for the development of this new project 😄.
 
-Catch ya around!,
-Arnav.
+Catch ya around!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   {{< badge >}}Programming{{< /badge >}}
