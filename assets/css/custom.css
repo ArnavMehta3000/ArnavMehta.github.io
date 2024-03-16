@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "custom-font";
+    src: url("/fonts/spleen.woff") format("woff");
+}
+
+html {
+    font-family: custom-font, sans-serif;
+}
