@@ -4,6 +4,10 @@ date: 2024-03-10T14:24:17Z
 summary: Making a game engine - Part 1 - Engine architecture
 ---
 
+{{< alert "github" >}}
+Check out Nui Engine on [Github](https://github.com/ArnavMehta3000/NuiEngine.git)
+{{< /alert >}}
+
 ## Introducing Nui Engine
 
 This game engine project is called **Nui Engine** and will be built using C++. Unlike most game engines, this will be an *editor-less* game engine. I want the user to control everything via C++ code. There will be a command console using which the user can communicate with the game engine (such as executing commands like game cheats and getting engine information).
@@ -50,3 +54,8 @@ See below a diagram of the planned engine architecture.
 With the engine architecture planned, I will next work on generating project files. So that we can then start working on the engine itself.
 
 *The name 'Nui' was proposed by my univerity lecturer (who I asked for name suggestions)  since this engine has no editor (No UI). Thanks Tom!*
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  {{< badge >}}Programming{{< /badge >}}
+  {{< badge >}}Game Engine{{< /badge >}}
+</div>
