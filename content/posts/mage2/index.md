@@ -4,6 +4,11 @@ date: 2024-03-16T15:52:11Z
 summary: "Making a game engine - Part 2 - Generating project files and project structure"
 ---
 
+{{< lead >}}
+First there was project architecture then there was directory structure
+{{< /lead >}}
+
+
 {{< alert "github" >}}
 Check out Nui Engine on [Github](https://github.com/ArnavMehta3000/NuiEngine.git)
 {{< /alert >}}

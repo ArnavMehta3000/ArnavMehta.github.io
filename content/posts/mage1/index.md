@@ -4,6 +4,11 @@ date: 2024-03-10T14:24:17Z
 summary: Making a game engine - Part 1 - Engine architecture
 ---
 
+{{< lead >}}
+A new game engine!
+{{< /lead >}}
+
+
 {{< alert "github" >}}
 Check out Nui Engine on [Github](https://github.com/ArnavMehta3000/NuiEngine.git)
 {{< /alert >}}
