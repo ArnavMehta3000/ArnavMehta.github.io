@@ -4,6 +4,11 @@ date: 2024-03-16T18:19:56Z
 summary: "Making a game engine - Part 3 - Logging and Assertions"
 ---
 
+{{< lead >}}
+Throw it - Catch it - Log it
+{{< /lead >}}
+
+
 {{< alert "github" >}}
 Check out Nui Engine on [Github](https://github.com/ArnavMehta3000/NuiEngine.git)
 {{< /alert >}}
@@ -145,4 +150,5 @@ As usual the complete source code for this project is available on my GitHub rep
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   {{< badge >}}Programming{{< /badge >}}
   {{< badge >}}Game Engine{{< /badge >}}
+  {{< badge >}}C++{{< /badge >}}
 </div>
