@@ -28,7 +28,7 @@ The engine will be split into the following modules:
   - Links with the NuiGraphics and NuiAudio libraries
 - **NuiGraphics**
   - Built as a static library
-  - Contains the API agnosticc rendering interface
+  - Contains the DirectX 11 2D renderer
 - **NuiAudio**
   - Built as a static library
   - Contains all audio related functionality
