@@ -571,3 +571,9 @@ if (state.IsPressed)
 
 Making an input system from scratch is quite a tedious task, not in complexity, but in lines of code. First you have to declare all the keys and buttons you want to support and create a mapping for each one of them. Then actually process the them. I'll agree that my implementation may not be the best (especially with mapping keycodes to array indices). But I always wanted to understand how input systems are writen and wanted to write one myself from scratch. So here we are.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  {{< badge >}}Programming{{< /badge >}}
+  {{< badge >}}Game Engine{{< /badge >}}
+  {{< badge >}}C++{{< /badge >}}
+  {{< badge >}}Input{{< /badge >}}
+</div>

@@ -288,3 +288,10 @@ In the structure we have the following member variables:
 ## Conclusion
 
 In the next post I will go over processing the Win32 input messages using a custom input window procedure.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  {{< badge >}}Programming{{< /badge >}}
+  {{< badge >}}Game Engine{{< /badge >}}
+  {{< badge >}}C++{{< /badge >}}
+  {{< badge >}}Input{{< /badge >}}
+</div>
