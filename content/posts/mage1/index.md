@@ -42,9 +42,6 @@ The engine will be split into the following modules:
   - Links with all modules
 - **ProjectGenerator**
   - A collection of templates and python scripts used to generate solution and project files
-- **NuiCommandConsole**
-  - A standalone console application that can communicate with the engine
-  - The interprocess communication will be done using pipes
 
 See below a diagram of the planned engine architecture.
 
@@ -63,4 +60,5 @@ With the engine architecture planned, I will next work on generating project fil
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   {{< badge >}}Programming{{< /badge >}}
   {{< badge >}}Game Engine{{< /badge >}}
+  {{< badge >}}Software Architecture{{< /badge >}}
 </div>
