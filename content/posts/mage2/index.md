@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 2"
 date: 2024-03-16T15:52:11Z
-summary: "Making a game engine - Part 2 - Generating project files and project structure"
+summary: "Making a Game Engine - Part 2 - Generating Project Files And Project Structure"
 ---
 
 {{< lead >}}

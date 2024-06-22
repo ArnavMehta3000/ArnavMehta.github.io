@@ -1,7 +1,7 @@
 ---
 title: "Making a Game Engine - Part 0"
 date: 2024-03-06T20:42:50+01:00
-summary: "Humble beginnings - documenting my journey making a game engine"
+summary: "Humble Beginnings - Documenting My Journey Making a Game Engine"
 ---
 
 {{< alert "github" >}}

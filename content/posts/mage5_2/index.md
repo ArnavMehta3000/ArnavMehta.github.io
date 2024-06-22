@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 5.2"
 date: 2024-03-31T22:44:33+01:00
-summary: "Making a game engine - Part 5.2 - Input Processing"
+summary: "Making a Game Engine - Part 5.2 - Input Processing"
 ---
 
 {{< lead >}}
