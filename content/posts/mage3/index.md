@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 3"
 date: 2024-03-16T18:19:56Z
-summary: "Making a game engine - Part 3 - Logging and Assertions"
+summary: "Making a Game Engine - Part 3 - Logging and Assertions"
 ---
 
 {{< lead >}}

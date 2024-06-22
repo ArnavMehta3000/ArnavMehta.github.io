@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 1 "
 date: 2024-03-10T14:24:17Z
-summary: Making a game engine - Part 1 - Engine architecture
+summary: Making a Game Engine - Part 1 - Engine architecture
 ---
 
 {{< lead >}}

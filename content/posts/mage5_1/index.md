@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 5.1"
 date: 2024-03-20T11:57:05Z
-summary: "Making a game engine - Part 5.1 - Input System Setup"
+summary: "Making a Game Engine - Part 5.1 - Input System Setup"
 ---
 
 {{< lead >}}

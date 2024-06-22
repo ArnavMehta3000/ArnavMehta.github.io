@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 4"
 date: 2024-03-19T19:59:57Z
-summary: "Making a game engine - Part 4 - Windowing"
+summary: "Making a Game Engine - Part 4 - Windowing"
 ---
 
 {{< lead >}}

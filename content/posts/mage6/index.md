@@ -1,7 +1,7 @@
 ---
 title: "MAGE - Part 6"
 date: 2024-04-19T21:20:06+01:00
-summary: "Making a game engine - Part 6 - Application Entry Point"
+summary: "Making a Game Engine - Part 6 - Application Entry Point"
 ---
 
 {{< lead >}}
