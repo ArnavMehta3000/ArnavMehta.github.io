@@ -56,7 +56,7 @@ These experiences have been invaluable in sharpening my problem-solving skills, 
 I always look forward to the thrill and excitement of game jams, and I'm excited to continue participating in these events to further expand my skills and explore the vast possibilities of game development. It also builds my teamworking skills and understanding the different roles in game development.
 
 {{< lead >}}
-Like all programmers I love spending 10 hours automating something I could have manually done in 10 mintues
+Like all programmers I love spending 10 hours automating something I could have manually done in 10 minutes
 {{< /lead >}}
 
 {{< alert "linkedin" >}}
